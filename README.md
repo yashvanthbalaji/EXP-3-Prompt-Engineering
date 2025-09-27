@@ -37,6 +37,9 @@ The findings were compiled into a professional report, complete with comparative
 ## Prompt
 
 ## Output
+[exp 3 prompt.pdf](https://github.com/user-attachments/files/22570356/exp.3.prompt.pdf)
+
 
 ## Result
+The 2024 AI market is defined by a fierce competition for specialization and user experience. ChatGPT remains the most versatile and user-friendly platform for general tasks. Claude is the king of long-form analysis and complex reasoning. Google Gemini is the fastest and most relevant for up-to-the-minute information. Cohere Command is the most trustworthy for fact-based, enterprise-level tasks. Finally, Meta AI excels at casual, conversational use within a social ecosystem. The ultimate "winner" is not a single platform but the informed user who understands how to select the right tool for the job.
 
